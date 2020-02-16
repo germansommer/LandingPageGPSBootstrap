@@ -1,0 +1,33 @@
+*{
+	box-sizing: border-box;
+}
+
+body { 
+	padding-top: 40px; 
+}
+
+.nav {
+	z-index: 10;
+}
+.link:hover {
+	background-color: #222;
+	color: black;
+}
+
+.bg {
+	background-image: url("bg6.jpg"); 
+	height: 100vh;
+	width: 100vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.bgx {
+	background-image: url("bg7.jpg"); 
+	height: 100vh;
+	width: 100vw;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+}
